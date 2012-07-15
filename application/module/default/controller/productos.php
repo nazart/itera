@@ -12,7 +12,7 @@
  */
 
 require_once 'controller/controller.php';
-require_once APPLICATION_PATH.'/model/productos.php';
+require_once APPLICATION_PATH.'/model/modelProductos.php';
 class productos extends controller {
     function init(){
         parent::init();

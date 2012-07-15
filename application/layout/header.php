@@ -18,8 +18,6 @@
 		<script type="text/javascript" src="res/x5settings.js"></script>
 		<link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
 		<title>Contáctenos - ITERA S.A.C - UNREGISTERED VERSION</title>
-		<link rel="stylesheet" type="text/css" href="pcss/contactenos.css" media="screen" />
-		
 	</head>
 
 

@@ -16,6 +16,9 @@ if ($contactenos->isPost()) {
 ?>
 <html>
     <?php require_once(APPLICATION_PATH . '/layout/header.php'); ?>
+    		<link rel="stylesheet" type="text/css" href="pcss/contactenos.css" media="screen" />
+		
+
     <body>
         <div id="imPage">
             <div id="imHeader">
