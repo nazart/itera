@@ -38,6 +38,7 @@ class application {
             $param = explode('/', $resultRequest);
         } else {
             $param = array();
+            $param[0]='';
         }
         $ismoduleUri = FALSE;
         if ($param[0] != '' && file_exists(APPLICATION_PATH . '/module/' . $param[0])) {
