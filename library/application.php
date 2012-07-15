@@ -1,5 +1,4 @@
 <?php
-
 session_start();
 /*
  * To change this template, choose Tools | Templates
@@ -38,10 +37,10 @@ class application {
             $param = explode('/', $resultRequest);
         } else {
             $param = array();
-            $param[0]='';
+            //$param[0]='';
         }
         $ismoduleUri = FALSE;
-        if ($param[0] != '' && file_exists(APPLICATION_PATH . '/module/' . $param[0])) {
+        if (isset($param[0]) && $param[0] != '' && file_exists(APPLICATION_PATH . '/module/' . $param[0])) {
             $module = $param[0] == '' ? 'default' : $param[0];
             $ismoduleUri = TRUE;
             

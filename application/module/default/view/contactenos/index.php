@@ -1,7 +1,6 @@
 <?php
 require_once('/../../controller/contactenos.php');
 $contactenos = new contactenos();
-$contactenos->validarContacto();
 $listaProductos = $contactenos->listarProductos();
 $mensaje = array();
 $params = array();
