@@ -1,0 +1,34 @@
+<gallery width="640" height="480">
+  <video>
+    <integrate>WebSiteX5</integrate>
+    <cpindex>11174471</cpindex>
+  </video>
+  <options>
+    <guicolor>0x000000</guicolor>
+    <background>transparent</background>
+    <font>Verdana</font>
+    <fontcolor>0xffffff</fontcolor>
+    <guialpha>1</guialpha>
+    <fontsize>8</fontsize>
+    <autoplay>false</autoplay>
+    <tposition>bottom</tposition>
+    <tsize>158</tsize>
+    <tnumber>4</tnumber>
+    <music />
+    <buttons>true</buttons>
+    <random>false</random>
+    <fullscreen>false</fullscreen>
+  </options>
+  <slides>
+    <slide url="gallery/MAR-CAPTURA-1.png" type="image" effect="" autoplay="5000" thumb="gallery/MAR-CAPTURA-1_thumb.png">
+    </slide>
+    <slide url="gallery/MAR-CAPTURA-2.png" type="image" effect="" autoplay="5000" thumb="gallery/MAR-CAPTURA-2_thumb.png">
+    </slide>
+    <slide url="gallery/MAR-CAPTURA-3.png" type="image" effect="" autoplay="5000" thumb="gallery/MAR-CAPTURA-3_thumb.png">
+    </slide>
+    <slide url="gallery/MAR-CAPTURA-4.png" type="image" effect="" autoplay="5000" thumb="gallery/MAR-CAPTURA-4_thumb.png">
+    </slide>
+    <slide url="gallery/MAR-CAPTURA-5.png" type="image" effect="" autoplay="5000" thumb="gallery/MAR-CAPTURA-5_thumb.png">
+    </slide>
+  </slides>
+</gallery>

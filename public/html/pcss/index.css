@@ -1,0 +1,11 @@
+#imCell_1 { display: block; position: relative; overflow: hidden; width: 970px; min-height: 306px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 4px solid transparent; border-right: 4px solid transparent;}
+#imCellStyle_1 { position: relative; width: 962px; min-height: 300px; padding: 3px 4px 3px 4px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 3;}
+#imCellStyleGraphics_1 { position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px; background: transparent url('../') repeat center center;}
+#imCellStyleGraphicsB_1 { position: absolute; bottom: 0; left: 0px; right: 0px; height: 0px; background: transparent url('../') repeat-x center bottom;}
+#imCellStyleGraphicsBL_1 { position: absolute; bottom: 0; left: 0; width: 0px; height: 0px; background: transparent url('../') repeat left bottom;}
+#imCellStyleGraphicsBR_1 { position: absolute; bottom: 0; right: 0; width: 0px; height: 0px; background: transparent url('../') repeat right bottom;}
+#imCellStyleGraphicsL_1 { position: absolute; top: 0px; bottom: 0px; left: 0; width: 0px; background: transparent url('../') repeat-y left center;}
+#imCellStyleGraphicsR_1 { position: absolute; top: 0px; bottom: 0px; right: 0; width: 0px; background: transparent url('../') repeat-y right center;}
+#imCellStyleGraphicsT_1 { position: absolute; top: 0; left: 0px; right: 0px; height: 0px; background: transparent url('../') repeat-x center top;}
+#imCellStyleGraphicsTL_1 { position: absolute; top: 0; left: 0; width: 0px; height: 0px; background: transparent url('../') repeat left top;}
+#imCellStyleGraphicsTR_1 { position: absolute; top: 0; right: 0; width: 0px; height: 0px; background: transparent url('../') repeat right top;}

@@ -1,0 +1,155 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: Trebuchet MS;
+	font-size: 12px;
+}
+#imNavBar {
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: #595959;
+	color: #fff;
+	padding: 5px 0;
+	position: relative;
+}
+#imNavBar a {
+	font-size: 12px;
+	color: #fff;
+	text-decoration: none;
+	padding: 5px;
+}
+#imNavBar span {
+	position: absolute;
+	right: 10px;
+}
+.imContent {
+	padding: 0;
+	background-color: #f4f4f4;
+	border: 1px solid #ddd;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+#imLoginPage {
+	margin: 100px auto 10px auto;
+	width: 280px;
+}
+#imLoginPage .imContent {
+	padding: 10px;
+}
+#imAdminPage {
+	margin: 40px auto 10px auto;
+	width: 600px;
+}
+#imAdminPage #imBody {
+	padding: 0;
+}
+fieldset {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+input, select {
+	color: #555;
+	border: 1px solid #ff8b51;
+	font-size: 12px;
+	padding: 2px;
+	margin-bottom: 2px; 
+}
+input[type="submit"] {
+	background-color: #ffd9be;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+input[type="submit"].imBlogPostCommentActionApprove {
+	border-color: #8bff51;
+	background-color: #d9ffbe;
+}
+input[type="submit"]:hover {
+	background-color: #ffeacf;
+}
+input[type="submit"]:hover.imBlogPostCommentActionApprove {
+	background-color: #eaffcf;
+}
+input[type="password"],
+input[type="text"] {
+	width: 255px;
+	font-size: 12px;
+}
+#imAdminPage .imFilter {
+	background-color: #d3d3d3;
+	padding: 5px;
+	margin: 3px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.imBlogPostComment {
+	margin: 10px;
+	border-bottom: 1px dotted #ff8b51;
+	font-size: 12px;
+}
+.imBlogPostComment:last-child {
+	border-bottom: none;
+}
+.imBlogPostCommentUser {
+	font-weight: bold;
+}
+.imBlogPostCommentUser a {
+	text-decoration: none;
+	color: #ee7a40;
+}
+.imBlogPostCommentUser a:hover {
+	text-decoration: underline;
+	color: #ee7a40;
+}
+.imBlogPostCommentDate {
+	font-size: 70%;
+	color: #888;
+	margin-bottom: 3px;
+}
+.imBlogPostCommentAction {
+	float: right;
+}
+.imBlogAbuse {
+	color: rgb(255,0,0);
+}
+.imTest {
+	margin: 5px;
+	padding: 5px;
+	vertical-align:middle;
+	font-size: 15px;
+	position: relative;
+}
+.pass {
+	background-color: rgb(51,204,51);
+}
+.fail {
+	background-color: rgb(240,0,0);
+}
+.imTest span {
+	position: absolute;
+	right: 5px;
+}
+.imSectionTitle {
+	padding: 0;
+	background-color: white;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+.imContent a, .imContent a:visited, .imContent a:hover {
+	text-decoration: underline;
+	color: black;
+}
+.imContent table {
+	border-collapse: collapse;
+}
+.imContent table td {
+	border: 1px solid #aaa;
+	padding: 5px;
+}
+.imContent table tr.imHead td {
+	font-weight: bold;
+}
+.imContent table.no-border td {
+	border: none;
+}
