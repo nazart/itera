@@ -1,21 +1,21 @@
 <div id="imMnMn" class="auto">
     <ul class="auto">
         <li id="imMnMnNode0">
-            <a href="index.html">
+            <a href="/">
                 <span class="imMnMnFirstBg">
                     <span class="imMnMnTxt"><span class="imMnMnImg"></span>Home</span>
                 </span>
             </a>
         </li>
         <li id="imMnMnNode10">
-            <a href="nosotros.html">
+            <a href="/nosotros">
                 <span class="imMnMnFirstBg">
                     <span class="imMnMnTxt"><span class="imMnMnImg"></span>Nosotros</span>
                 </span>
             </a>
         </li>
         <li id="imMnMnNode11">
-            <a href="productos.html">
+            <a href="/productos">
                 <span class="imMnMnFirstBg">
                     <span class="imMnMnTxt"><span class="imMnMnImg"></span>Productos</span>
                 </span>
@@ -197,7 +197,7 @@
             </ul>
         </li>
         <li id="imMnMnNode12" class="imMnMnCurrent">
-            <a href="contactenos.html">
+            <a href="/contactenos">
                 <span class="imMnMnFirstBg">
                     <span class="imMnMnTxt"><span class="imMnMnImg"></span>Contáctenos</span>
                 </span>
