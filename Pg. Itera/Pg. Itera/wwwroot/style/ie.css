@@ -1,7 +1,0 @@
-#imPage{z-index:9000;}
-#imMnMn > ul > li#imMnMnNode0{margin-left:50px;}
-#imMnMn li .imMnMnBorder .imMnMnImg img{padding-top:5px;}
-#imMnMn ul ul li .imMnMnLevelImg{z-index:10000;float:right;position:relative;top:-15px;left:-5px;display:block;width:7px;height:7px;background-image:url('../res/imIconMenuLeft.gif');background-position:center center;margin-right:0;}
-#imMnMn > ul > li > ul{margin-left:-95px;margin-top:25px;}
-#imMnMn .imMnMnBorder{width:100%;}
-#imMnMn.auto ul li ul li ul, #imMnMn.auto ul li ul li ul li ul, #imMnMn.auto ul li ul li ul li ul li ul {margin-top:0px;}

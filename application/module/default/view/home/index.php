@@ -10,7 +10,7 @@ $producto->listarProductos();
 <body>
 		<div id="imPage">
 			<div id="imHeader">
-				<h1 class="imHidden">ITERA S.A.C</h1>
+				<h1 class="imHidden">ITERA S.A.C - UNREGISTERED VERSION</h1>
 				
 			</div>
 			<a class="imHidden" href="#imGoToCont" title="Salta el menu principal">Vaya al Contenido</a>

@@ -61,7 +61,7 @@ class contactenos extends controller {
         $productos = new modelProductos();
         return $productos->listarProductos();
     }
-    //put your code here
+    
 }
 
 ?>
